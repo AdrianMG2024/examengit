@@ -22,7 +22,7 @@ public class Artista {
 	
     public void setNombreArtista(String nombre) {
         this.nombreArtista = nombre;
-        //Adrian
+        //Adrian Moya
     }
     
 }
